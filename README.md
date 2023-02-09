@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently looking for a job as a trainee<br>I'm currently learning Python<br>
+I'm currently looking for a job as a tester<br>I'm currently learning testing automation in Python<br>
 
 
 ## 🌐 Socials:
